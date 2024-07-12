@@ -3,7 +3,7 @@ import Footer from "./Footer";
 import Hero from "./Hero";
 import Products from "./Products";
 import ShopLocal from "./ShopLocal";
-import ShoppingCart from "./ShoppingCart";
+
 
 const Home = () => {
   return (
@@ -13,7 +13,6 @@ const Home = () => {
       <AboutUs />
       <ShopLocal />
       <Footer />
-      <ShoppingCart />
     </>
   );
 };

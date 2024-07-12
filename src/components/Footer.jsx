@@ -17,7 +17,7 @@ const Footer = () => {
                     <AiFillInstagram className='fill-white w-8 h-10' />
                 </div>
                 <div className='col-start-3 col-end-11 text-center text-gray-200 mt-10'>
-                    <p className='font-Mont font-extralight text-xs '>Made by Lijo & Bavadesh</p>
+                    <p className='font-Mont font-extralight text-xs '>Made by Lijo</p>
                     <p className='font-Mont font-extralight text-xs '>&copy; 2023 Teseele Foods </p>
 
                 </div>
